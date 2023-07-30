@@ -12,7 +12,7 @@ c - Toggle corrosion on/off<br/>
 <br/>
 In the mechanical engineering the transmission gear teeth cannot be of arbitrary height and angular width, because of the strength requirements. Parameters of cylindrical gear teeth are calculated from a so-called “Module”, which is taken from a row of standard values. However, for the scope of computer graphics project we can afford to arbitrarily assign these parameters. Instead of setting up gear ratio, I decided to set up numbers of teeth for gear 1 and gear 2. Gear ratio can easily be calculated as number of teeth 2 / number of teeth 1. Same thing applies to the gear radius.<br/>
 <br/>
-The following parameters were set for our transmission:
+The following parameters were set for our transmission:<br/>
 Number of teeth on the gear 1:	23<br/>
 Number of teeth on the gear 2:	47<br/>
 Radius of gear 1: 10.<br/>
